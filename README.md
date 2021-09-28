@@ -1,6 +1,11 @@
 # docker_basic_webserver
 Documents to create a basic webserver using docker's containers.
 
+Containers:
+- phpMyAdmin
+- apache
+- MySQL
+
 ### Start
 
 ```
